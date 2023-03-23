@@ -101,7 +101,7 @@ SuzuneHorikitarobot_IMG = choice(pic_list)
 PM_START_TEXT = """
 Hello Dear ♡︎ !
 
-My name is Suzune Horikita - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+My name is Baby Lover - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 Join My Updates Channel to get information on all the latest updates.
 
@@ -113,12 +113,12 @@ buttons = [
             text="Add Me To Your Group", url="https://t.me/Suzune_Superbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Support Chat", url="https://t.me/Suzune_Support"),
+        InlineKeyboardButton(text="Support Chat", url="https://t.me/mondo_lover"),
         InlineKeyboardButton(
-            text="Updates Channel", url="https://t.me/SuzuneSuperbot"),
+            text="Updates Channel", url="https://t.me/loves159"),
     ],
     [
-        InlineKeyboardButton(text="•Source Code•", url="https://github.com/desinobita/SuzuneRobot"),
+        InlineKeyboardButton(text="•Source Code•", url="https://te.legra.ph/file/ddcb156251c1624d09253.mp4"),
     ],
 ]
 
